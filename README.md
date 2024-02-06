@@ -40,7 +40,7 @@ I am learning to play the drums, I am passionate about health and fitness and lo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirabela-tiugan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m091u)
-[![Portfolio](https://img.shields.io/badge/:badgeContent)](https://mirabela-tiugan.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-purple)](https://mirabela-tiugan.netlify.app/)
 
 
 
