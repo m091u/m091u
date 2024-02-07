@@ -11,6 +11,7 @@ I’m a Junior Web Developer, with a strong professional background in Project m
 I have recently graduated from Ironhack's Fullstack Web Developer program and I am looking forward to transition into the dynamic field of web development.
 
 I’m currently working on enhancing my programming skill set through continuous learning and bilding new projects. 
+More details on that in my [![Portfolio](https://img.shields.io/badge/Portfolio-purple)](https://mirabela-tiugan.netlify.app/).
 
 📫 How to reach me: mirabelatiugan@gmail.com 
 
@@ -40,7 +41,6 @@ I am learning to play the drums, I am passionate about health and fitness and lo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirabela-tiugan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m091u)
-[![Portfolio](https://img.shields.io/badge/Portfolio-purple)](https://mirabela-tiugan.netlify.app/)
 
 
 
