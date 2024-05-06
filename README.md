@@ -23,6 +23,7 @@ More details on that in my [![Portfolio](https://img.shields.io/badge/Portfolio-
 [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![Go](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go)](https://golang.org/)
 [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
